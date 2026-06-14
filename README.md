@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Htethtoolwin-dev/Htethtoolwin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Htet Htoo Lwin, a Final Year IT Student from Myanmar.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Final Year Student at Rangsit University
+- 💻 Interested in Web Development and Software Engineering
+- 🌱 Currently learning Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- React
+- Node.js
+- PostgreSQL
+- Git & GitHub
+
+## 📚 Current Projects
+- GalaxyGames Platform
+- Agricultural Land Use & Water Management Modeling
+- Digital Health App Research
+
+## 📫 Contact Me
+- Email: hhtoolwin2022@gmail.com
+
+---
+⭐ Thanks for visiting my profile!
