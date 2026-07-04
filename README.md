@@ -11,15 +11,15 @@ I'm Htet Htoo Lwin, a Final Year IT Student from Myanmar.
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
-- React
-- Node.js
+- React, Next.js
+- Node.js , Prisma ORM
 - PostgreSQL
 - Git & GitHub
 
 ## 📚 Current Projects
-- GalaxyGames Platform
-- Agricultural Land Use & Water Management Modeling
-- Digital Health App Research
+- AI_Driven Analytics
+- Logitrack
+- TaskFlow Management
 
 ## 📫 Contact Me
 - Email: hhtoolwin2022@gmail.com
