@@ -18,8 +18,8 @@ I'm Htet Htoo Lwin, a Final Year IT Student from Myanmar.
 
 ## 📚 Current Projects
 - AI_Driven Analytics
-- Logitrack
-- TaskFlow Management
+- Logitrack 
+- TravelEase - FullStack Travel Booking Platform
 
 ## 📫 Contact Me
 - Email: hhtoolwin2022@gmail.com
