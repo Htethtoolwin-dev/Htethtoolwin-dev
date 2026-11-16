@@ -15,6 +15,7 @@ I'm Htet Htoo Lwin, a Final Year IT Student from Myanmar.
 - Node.js , Prisma ORM
 - PostgreSQL
 - Git & GitHub
+- Figma
 
 ## 📚 Current Projects
 - AI_Driven Analytics
