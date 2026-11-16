@@ -10,8 +10,8 @@ I'm Htet Htoo Lwin, a Final Year IT Student from Myanmar.
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
 - React, Next.js
-- Node.js , Prisma ORM
-- PostgreSQL
+- Node.js, Express.js, Next.js API Routes
+- PostgreSQL, Prisma ORM
 - Git & GitHub
 - Figma
 
