@@ -4,10 +4,8 @@ I'm Htet Htoo Lwin, a Final Year IT Student from Myanmar.
 
 ## 🚀 About Me
 - 🎓 Final Year Student at Rangsit University
-- 💻 Interested in Web Development and Software Engineering
-- 🌱 Currently learning Full Stack Development
-
-
+- 💻 Interested in Software Engineering
+- 🌱 Experiences with Full Stack Development
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
@@ -18,9 +16,12 @@ I'm Htet Htoo Lwin, a Final Year IT Student from Myanmar.
 - Figma
 
 ## 📚 Current Projects
+- AI Study Hub - Full-stack AI-powered learning platform)
+- TravelEase - full-stack travel booking platform with authentication, tour booking, and an admin dashboard
 - AI_Driven Analytics
-- Logitrack 
-- TravelEase - FullStack Travel Booking Platform
+- EventBook - full-stack Event Booking System with secure JWT authentication
+- Logitrack - B2B logistics dashboard
+  
 
 ## 📫 Contact Me
 - Email: hhtoolwin2022@gmail.com
