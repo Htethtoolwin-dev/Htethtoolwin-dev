@@ -16,7 +16,7 @@ I'm Htet Htoo Lwin, a Final Year IT Student from Myanmar.
 - Figma
 
 ## 📚 Current Projects
-- AI Study Hub - Full-stack AI-powered learning platform)
+- AI Study Hub - Full-stack AI-powered learning platform
 - TravelEase - full-stack travel booking platform with authentication, tour booking, and an admin dashboard
 - AI_Driven Analytics
 - EventBook - full-stack Event Booking System with secure JWT authentication
